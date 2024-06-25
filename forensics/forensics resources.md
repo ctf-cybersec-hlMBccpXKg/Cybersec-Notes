@@ -1,13 +1,13 @@
-Practice:
+#### Practice:
 - 
 
-Resources:
+#### Resources:
 - [redteamnotes](https://www.ired.team/)
 	- not that much, mainly a pentesting resource
 - [aperisolve cheat sheet](https://www.aperisolve.com/cheatsheet)
 	- various techniques for image/audio manipulation
 
-Tools:
+#### Tools:
 - [Aperi'Solve](https://aperisolve.com/)
 	- does a bunch of analyses on images; can be installed locally
 - [acropalypse](https://acropalypse.app/)

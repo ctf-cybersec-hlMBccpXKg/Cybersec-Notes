@@ -1,4 +1,4 @@
-Practice:
+#### Practice:
 - [Pwny Racing](https://pwny.racing/)
 - pwnables sites
 	- [pwnables xyz](https://pwnable.xyz/)
@@ -13,7 +13,7 @@ Practice:
 - [pwn02hero](https://github.com/seal9055/PWN_Zero2Hero)
 	- [seal9055's](https://seal9055.com/) pwn challenges
 
-Resources:
+#### Resources:
 - [Shell-Storm](https://shell-storm.org/index.html)
 	- various optimized shellcodes
 - [Linux System Call Table for x86 64 · Ryan A. Chapman](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
@@ -21,7 +21,7 @@ Resources:
 - [opensecuritytraining](https://p.ost2.fyi/)
 	- free courses on various pwn/rev concepts
 
-Tools:
+#### Tools:
 - [ghidra](https://ghidra-sre.org/)
 	- free decompiler
 - [dogbolt](https://dogbolt.org/)

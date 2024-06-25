@@ -1,11 +1,11 @@
-Practice:
+#### Practice:
 - see resources
 
-Resources:
+#### Resources:
 [OSINT Framework](https://osintframework.com/) - more for tools
 [start.me](https://start.me/p/DPYPMz/the-ultimate-osint-collection) - has more challenges and news
 
-Tools:
+#### Tools:
 - maps
 	- [google maps](https://www.google.com/maps)
 - [wigle](https://wigle.net/)
