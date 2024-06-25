@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "7af7d5e5816af807",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfc6bda0fefea40c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52f4ecc21158f720",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed62498bbaa95365",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ee79fa465f97dca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f290a871c738b9da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "24bfbe07e0c9e9d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7cc50ed4e3685c08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "964293c58da8ecec",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4f61cafbee00fde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "167271dcf3b6f1fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2cad39070bb220a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6dcdeb8a858e43e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d88893b0f58b17a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "1ab6ddbc5f257f42",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "52f4ecc21158f720",
+  "lastOpenFiles": [
+    "class materials/discussion/Discussion 4 Solutions Short.pdf",
+    "class materials/discussion/Handout 4.pdf",
+    "class materials/discussion/Discussion 3 Solutions Short.pdf",
+    "class materials/discussion/Handout 5.pdf",
+    "class materials/discussion/Handout 3.pdf",
+    "class materials/discussion/Discussion 2 Solutions Short.pdf",
+    "class materials/discussion/Handout 2.pdf",
+    "class materials/discussion/Formula Sheet 3.pdf",
+    "week 7/Continuous joint pdfs.md",
+    "week 7/covariance and correlation.md",
+    "week 6/more continuous random vars.md",
+    "week 5/Multiple random vars.md",
+    "week 6/Continuous probability.md",
+    "week 5/Expected value.md",
+    "class materials/si/Worksheet SI Jackson 2024-03-24 Session 10-2.pdf",
+    "week 4/different types of random variables.md",
+    "old stuff/probability/Independence.pdf",
+    "old stuff/probability/Discrete random variables.pdf",
+    "week 8/Markov and Chebyshev.md",
+    "hw/Homework 3.md",
+    "images/Pasted image 20240305104902.png",
+    "images/Pasted image 20240307102828.png",
+    "hw/Homework 2.md",
+    "Excalidraw/Drawing 2024-03-07 18.36.03.excalidraw.md",
+    "old stuff/what is this class.md",
+    "Pasted image 20240307102828.png",
+    "Pasted image 20240305104902.png",
+    "images/Pasted image 20240305102020.png",
+    "images/Pasted image 20240229102754.png",
+    "README.md",
+    "images/Pasted image 20240220104435.png",
+    "what is this class.md"
+  ]
+}

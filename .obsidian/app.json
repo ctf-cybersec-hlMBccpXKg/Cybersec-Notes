@@ -1,0 +1,13 @@
+{
+  "vimMode": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 88
+  },
+  "newFileLocation": "current",
+  "showLineNumber": false,
+  "showUnsupportedFiles": true
+}

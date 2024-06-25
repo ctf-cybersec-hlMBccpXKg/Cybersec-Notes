@@ -1,0 +1,10 @@
+div:has(> .mermaid) {
+    width: auto !important;
+    text-align: center;
+}
+.mermaid {
+    overflow: scroll;
+}
+.mermaid svg {
+    width: 60%;
+}

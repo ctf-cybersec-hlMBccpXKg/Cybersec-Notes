@@ -1,0 +1,11 @@
+\color{red},,c-r
+
+\color{magenta},,c-m
+
+\color{green},,c-g
+
+\color{blue},,c-b
+
+\color{lightblue},,c-lb
+
+\color{lightgreen},,c-lg

@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "7af7d5e5816af807",
+    "type": "split",
+    "children": [
+      {
+        "id": "717e5af9148cdcfc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba2ebf5fb7b457de",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "class materials/discussion/Discussion 5 Solutions Short.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed62498bbaa95365",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ee79fa465f97dca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f290a871c738b9da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "24bfbe07e0c9e9d9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7cc50ed4e3685c08",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "964293c58da8ecec",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4f61cafbee00fde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "167271dcf3b6f1fe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "class materials/discussion/Discussion 5 Solutions Short.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2cad39070bb220a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "class materials/discussion/Discussion 5 Solutions Short.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6dcdeb8a858e43e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d88893b0f58b17a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "class materials/discussion/Discussion 5 Solutions Short.pdf"
+              }
+            }
+          },
+          {
+            "id": "1ab6ddbc5f257f42",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ba2ebf5fb7b457de",
+  "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "class materials/discussion/Discussion 5 Solutions Short.pdf",
+    "images/Pasted image 20240307102828.png",
+    "images/Pasted image 20240305104902.png",
+    "class materials/discussion/Handout 5.pdf",
+    "week 7/covariance and correlation.md",
+    "class materials/cs240 lectures+hw/lecture13.pdf",
+    "class materials/cs240 lectures+hw/lecture8.pdf",
+    "class materials/cs240 lectures+hw/lecture7.pdf",
+    "class materials/cs240 lectures+hw/lecture6.pdf",
+    "week 5/Expected value.md",
+    "week 6/Continuous probability.md",
+    "week 6/more continuous random vars.md",
+    "week 7/Continuous joint pdfs.md",
+    "class materials/cs240 lectures+hw/lecture12.pdf",
+    "week 5/Multiple random vars.md",
+    "hw/Homework 3.md",
+    "week 7",
+    "class materials/discussion/Handout 4.pdf",
+    "class materials/cs240 lectures+hw/lecture11.pdf",
+    "hw/Homework 2.md",
+    "Excalidraw/Drawing 2024-03-07 18.36.03.excalidraw.md",
+    "old stuff/what is this class.md",
+    "Pasted image 20240307102828.png",
+    "Pasted image 20240305104902.png",
+    "images/Pasted image 20240305102020.png",
+    "images/Pasted image 20240229102754.png",
+    "README.md",
+    "week 4/different types of random variables.md",
+    "images/Pasted image 20240220104435.png",
+    "what is this class.md"
+  ]
+}

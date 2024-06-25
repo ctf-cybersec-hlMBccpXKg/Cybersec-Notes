@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "1960603fb037bb5a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8e14776259cf906",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "474791f2048f594f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "40be6d5efb3c85ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6c77769df9e97f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c505e9d4d88ea44",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "12b822cca6991952",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79f4f9a3ddd8388c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "629b15ef5532d827",
+    "type": "split",
+    "children": [
+      {
+        "id": "399d97bf74fa849f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "caf9708f3e1e4132",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8709395a0782d4f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc30d0aed241dbef",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57471cbdf467b82f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "df78771ff4c322ee",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "474791f2048f594f",
+  "lastOpenFiles": [
+    "README.md",
+    "hw/Homework 4.md",
+    "hw/Homework 5.md",
+    "Pasted image 20240624135815.png",
+    "Pasted image 20240624134724.png",
+    "hw/HW5.pdf",
+    "Pasted image 20240624134711.png",
+    "7. Language.md",
+    "Pasted image 20240624133230.png",
+    "Pasted image 20240624131831.png",
+    "async notes/week 5.md",
+    "Pasted image 20240624130638.png",
+    "Pasted image 20240624130625.png",
+    "Pasted image 20240624130606.png",
+    "Pasted image 20240624130531.png",
+    "hw/Homework 1.md",
+    "6. Graphs.md",
+    "Excalidraw/Drawing 2024-06-20 22.15.07.excalidraw.md",
+    "discussion/Discussion 5.md",
+    "discussion/Discussion 4.md",
+    "images/Pasted image 20240620180123.png",
+    "hw/HW4.pdf",
+    "hw/HW3.pdf",
+    "Excalidraw/Drawing 2024-06-20 17.02.48.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-20 16.56.51.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-20 17.01.48.excalidraw.md",
+    "Excalidraw/Drawing 2024-06-20 17.00.48.excalidraw.md",
+    "Excalidraw",
+    "2. Propositional logic.md",
+    "hw/Homework 3.md",
+    "class mats/Syllabus250.pdf",
+    "discussion/Discussion 3 responses.md",
+    "discussion/Discussion_5_response.pdf",
+    "midterm/Q3.md",
+    "midterm/Q2.md",
+    "midterm/Q4.md",
+    "midterm/Q5.md",
+    "midterm/Q6.md",
+    "midterm/Q7.md",
+    "midterm/Q9.md",
+    "midterm/Q8.md",
+    "midterm exam practice/Q6.md",
+    "midterm",
+    "discussion/Discussion4_Response.pdf",
+    "class mats/mordecai slides/22_MG-graphs,paths,trees.pdf",
+    "class mats/mordecai slides/20_MG.pdf"
+  ]
+}
