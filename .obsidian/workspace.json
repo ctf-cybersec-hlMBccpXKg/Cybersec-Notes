@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "web/web resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c719abafb7d67e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "crypto/crypto resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "web/web resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "web/web resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "web/web resources.md"
               }
             }
           }
@@ -159,15 +171,22 @@
   },
   "active": "474791f2048f594f",
   "lastOpenFiles": [
-    "ctfs/ctfs.md",
+    "rev+pwn/rev+pwn resources.md",
+    "pentesting/pentesting resources.md",
+    "osint/osint resources.md",
+    "forensics/forensics resources.md",
+    "crypto/crypto resources.md",
+    "misc.md",
+    "practice+everything resources.md",
+    "writeup links.md",
     "README.md",
-    "ctfs/writeup links.md",
-    "ctfs/crypto/resources.md",
-    "ctfs/forensics",
-    "ctfs/web",
-    "ctfs/rev+pwn",
-    "ctfs/crypto",
-    "ctfs/osint",
+    "web/web resources.md",
+    "pentesting",
+    "forensics",
+    "web",
+    "rev+pwn",
+    "crypto",
+    "osint",
     "ctfs",
     "hw/Homework 4.md",
     "hw/Homework 5.md",
@@ -195,15 +214,8 @@
     "Excalidraw/Drawing 2024-06-20 16.56.51.excalidraw.md",
     "Excalidraw/Drawing 2024-06-20 17.01.48.excalidraw.md",
     "Excalidraw/Drawing 2024-06-20 17.00.48.excalidraw.md",
-    "Excalidraw",
     "2. Propositional logic.md",
     "hw/Homework 3.md",
-    "discussion/Discussion 3 responses.md",
-    "midterm/Q3.md",
-    "midterm/Q2.md",
-    "midterm/Q4.md",
-    "midterm/Q5.md",
-    "midterm/Q6.md",
-    "midterm/Q7.md"
+    "discussion/Discussion 3 responses.md"
   ]
 }
