@@ -15,4 +15,6 @@ Tools:
 - [volatility3](https://github.com/volatilityfoundation/volatility3)
 	- tool for reading memory dump files
 	- [tutorial](https://www.youtube.com/watch?v=Uk3DEgY5Ue8)
+- [wireshark](https://www.wireshark.org/)
+	- packet capture analyzer
 

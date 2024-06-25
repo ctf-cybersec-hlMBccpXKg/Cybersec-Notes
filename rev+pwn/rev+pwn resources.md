@@ -1,10 +1,13 @@
 Practice:
 - [Pwny Racing](https://pwny.racing/)
-- [pwnables xyz](https://pwnable.xyz/)
-- [pwnables kr](https://pwnable.kr/)
-- [pwnables tw](https://pwnable.tw/)
+- pwnables sites
+	- [pwnables xyz](https://pwnable.xyz/)
+	- [pwnables kr](https://pwnable.kr/)
+	- [pwnables tw](https://pwnable.tw/)
 - [nsa codebreaker](https://nsa-codebreaker.org/home)
+	- annual challenge for universities
 - [390r](https://pwn.umasscybersec.org/index.html)
+	- 
 - [pwn.college](https://pwn.college/dojos)
 - [pwn02hero](https://github.com/seal9055/PWN_Zero2Hero)
 

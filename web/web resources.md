@@ -11,5 +11,7 @@ Resources:
 Tools:
 - [burpsuite](https://portswigger.net/burp/releases/professional-community-2023-10-1-2)
 - [Grayhatwarfare](https://grayhatwarfare.com/) - aws buckets
+- [jwt.io](https://jwt.io/)
+	- 
 
 
