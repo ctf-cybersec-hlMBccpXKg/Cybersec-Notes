@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "474791f2048f594f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "osint/osint resources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2c719abafb7d67e6",
             "type": "leaf",
             "state": {
@@ -30,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f6bfd43ee7049b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "crypto/crypto resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "osint/osint resources.md",
+                "file": "crypto/crypto resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "osint/osint resources.md",
+                "file": "crypto/crypto resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "osint/osint resources.md"
+                "file": "crypto/crypto resources.md"
               }
             }
           }
@@ -169,18 +170,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "474791f2048f594f",
+  "active": "6f6bfd43ee7049b6",
   "lastOpenFiles": [
-    "crypto/crypto resources.md",
-    "forensics/forensics resources.md",
-    "writeup links.md",
     "README.md",
+    "writeup links.md",
     "practice+everything resources.md",
-    "rev+pwn/rev+pwn resources.md",
-    "web/web resources.md",
     "misc.md",
-    "osint/osint resources.md",
+    "web/web resources.md",
+    "rev+pwn/rev+pwn resources.md",
     "pentesting/pentesting resources.md",
+    "crypto/crypto resources.md",
+    "osint/osint resources.md",
+    "forensics/forensics resources.md",
     "pentesting",
     "forensics",
     "web",
