@@ -3,6 +3,7 @@ Practice:
 
 Resources:
 - [redteamnotes](https://www.ired.team/)
+	- not that much, mainly a pentesting resource
 
 Tools:
 - [Aperi'Solve](https://aperisolve.com/)
