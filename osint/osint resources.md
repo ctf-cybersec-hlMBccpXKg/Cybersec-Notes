@@ -1,9 +1,9 @@
 Practice:
-- 
+- see resources
 
 Resources:
-[OSINT Framework](https://osintframework.com/)
-[start.me](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
+[OSINT Framework](https://osintframework.com/) - more for tools
+[start.me](https://start.me/p/DPYPMz/the-ultimate-osint-collection) - has more challenges and news
 
 Tools:
 - [wigle](https://wigle.net/)
@@ -15,5 +15,6 @@ Tools:
 	- [flightera](https://www.flightera.net/)
 - [grep.app](https://grep.app/)
 	- search engine for github repos
-- [Grayhatwarfare](https://grayhatwarfare.com/) - aws buckets
+- [Grayhatwarfare](https://grayhatwarfare.com/) 
+	- search for open aws buckets
 

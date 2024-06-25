@@ -30,3 +30,6 @@ Tools:
 	- c to asm
 - [pwntools](https://docs.pwntools.com/en/stable/)
 	- python library for doing pwn/scripting stuff
+- [pwndbg](https://pwndbg.re/)
+	- adds pwning functionality to gdb
+	- [splitmind](https://github.com/jerdna-regeiz/splitmind)

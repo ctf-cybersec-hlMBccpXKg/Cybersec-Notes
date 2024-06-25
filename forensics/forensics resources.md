@@ -4,6 +4,8 @@ Practice:
 Resources:
 - [redteamnotes](https://www.ired.team/)
 	- not that much, mainly a pentesting resource
+- [aperisolve cheat sheet](https://www.aperisolve.com/cheatsheet)
+	- various techniques for image/audio manipulation
 
 Tools:
 - [Aperi'Solve](https://aperisolve.com/)
