@@ -11,4 +11,7 @@ Tools:
 	- reverses cropping/censoring on certain images [see cve](https://en.wikipedia.org/wiki/ACropalypse)
 - [zwsptool](https://github.com/TwistAtom/ZWSP-Tool)
 	- manipulate zero width chars
+- [volatility3](https://github.com/volatilityfoundation/volatility3)
+	- tool for reading memory dump files
+	- [tutorial](https://www.youtube.com/watch?v=Uk3DEgY5Ue8)
 
