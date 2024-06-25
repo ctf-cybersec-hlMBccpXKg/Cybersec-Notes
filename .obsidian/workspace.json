@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "links to writeups.md",
+                "file": "practice+everything resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "links to writeups.md",
+                "file": "practice+everything resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "links to writeups.md",
+                "file": "practice+everything resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "links to writeups.md"
+                "file": "practice+everything resources.md"
               }
             }
           }
@@ -173,15 +173,15 @@
   "active": "6f6bfd43ee7049b6",
   "lastOpenFiles": [
     "README.md",
-    "practice+everything resources.md",
     "misc.md",
+    "practice+everything resources.md",
+    "links to writeups.md",
     "web/web resources.md",
     "rev+pwn/rev+pwn resources.md",
     "pentesting/pentesting resources.md",
     "osint/osint resources.md",
     "forensics/forensics resources.md",
     "crypto/crypto resources.md",
-    "links to writeups.md",
     "pentesting",
     "forensics",
     "web",
