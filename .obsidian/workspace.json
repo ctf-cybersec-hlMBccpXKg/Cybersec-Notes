@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "misc.md",
+                "file": "osint/osint resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "misc.md",
+                "file": "osint/osint resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "misc.md",
+                "file": "osint/osint resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "misc.md"
+                "file": "osint/osint resources.md"
               }
             }
           }
@@ -172,10 +172,10 @@
   },
   "active": "6f6bfd43ee7049b6",
   "lastOpenFiles": [
+    "misc.md",
     "practice+everything resources.md",
     "README.md",
     "writeup links.md",
-    "misc.md",
     "crypto/crypto resources.md",
     "forensics/forensics resources.md",
     "osint/osint resources.md",

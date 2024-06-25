@@ -6,6 +6,8 @@ Resources:
 [start.me](https://start.me/p/DPYPMz/the-ultimate-osint-collection) - has more challenges and news
 
 Tools:
+- maps
+	- [google maps](https://www.google.com/maps)
 - [wigle](https://wigle.net/)
 	- map of networks
 - [Aperi'Solve](https://aperisolve.com/)
