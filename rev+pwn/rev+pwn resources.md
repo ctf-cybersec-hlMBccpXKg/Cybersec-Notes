@@ -8,7 +8,9 @@ Practice:
 	- annual challenge for universities
 - [390r](https://pwn.umasscybersec.org/index.html)
 - [pwn.college](https://pwn.college/dojos)
+	- ASU's platform for pwn challenges
 - [pwn02hero](https://github.com/seal9055/PWN_Zero2Hero)
+	- [seal9055's](https://seal9055.com/) 
 
 Resources:
 - [Shell-Storm](https://shell-storm.org/index.html)
