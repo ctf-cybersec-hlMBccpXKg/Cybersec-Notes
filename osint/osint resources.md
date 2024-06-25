@@ -9,7 +9,7 @@ Tools:
 - [wigle](https://wigle.net/)
 	- map of networks
 - [Aperi'Solve](https://aperisolve.com/)
-	- forensics, but also can be used 
+	- forensics, but also can be used for exif data
 - flight trackers
 	- [Flightradar24](https://www.flightradar24.com/42.65,-71.16/6)
 	- [flightera](https://www.flightera.net/)

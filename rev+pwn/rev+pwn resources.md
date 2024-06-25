@@ -7,7 +7,6 @@ Practice:
 - [nsa codebreaker](https://nsa-codebreaker.org/home)
 	- annual challenge for universities
 - [390r](https://pwn.umasscybersec.org/index.html)
-	- 
 - [pwn.college](https://pwn.college/dojos)
 - [pwn02hero](https://github.com/seal9055/PWN_Zero2Hero)
 
