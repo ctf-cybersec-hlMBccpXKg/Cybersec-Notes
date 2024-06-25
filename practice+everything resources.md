@@ -7,5 +7,9 @@ practice:
 - [tryhackme](https://tryhackme.com/)
 
 resources:
+- [HackTricks](https://book.hacktricks.xyz/welcome/readme)
+	- literally everything
 - [CTF 101](https://ctf101.org/)
+	- beginner stuff/overview of exploits for each catagory
 - [kalitools](https://www.kali.org/tools/)
+	- all kali tools, search isn't that good though
