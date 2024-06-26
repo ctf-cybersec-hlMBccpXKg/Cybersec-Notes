@@ -8,10 +8,12 @@
 #### Tools:
 - maps
 	- [google maps](https://www.google.com/maps)
+	- see osint framework -> geolocation tools/maps
 - [wigle](https://wigle.net/)
 	- map of networks
 - [instantusername](https://instantusername.com/)
 	- searches usernames across lots of sites(not too reliable though)
+	- see osint framework->username+email address
 - [Aperi'Solve](https://aperisolve.com/)
 	- forensics, but also can be used for exif data
 - flight trackers
