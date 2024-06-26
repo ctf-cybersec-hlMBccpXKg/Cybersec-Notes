@@ -6,16 +6,12 @@
 [start.me](https://start.me/p/DPYPMz/the-ultimate-osint-collection) - has more challenges and news
 
 #### Tools:
-- maps
+- maps: see osint framework -> geolocation tools/maps
 	- [google maps](https://www.google.com/maps)
-	- see osint framework -> geolocation tools/maps
-- reverse search
-	- see osint framework->images/videos/docs
+- reverse search: see osint framework->images/videos/docs
+- usernames: see osint framework->username+email address
 - [wigle](https://wigle.net/)
 	- map of networks
-- [instantusername](https://instantusername.com/)
-	- searches usernames across lots of sites(not too reliable though)
-	- see osint framework->username+email address
 - [Aperi'Solve](https://aperisolve.com/)
 	- forensics, but also can be used for exif data
 - flight trackers
