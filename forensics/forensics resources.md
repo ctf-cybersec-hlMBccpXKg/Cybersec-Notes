@@ -7,6 +7,9 @@
 - [aperisolve cheat sheet](https://www.aperisolve.com/cheatsheet)
 	- various techniques for image/audio manipulation
 
+also see osint framework under 
+- malicious file analysis
+
 #### Tools:
 - [Aperi'Solve](https://aperisolve.com/)
 	- does a bunch of analyses on images; can be installed locally
