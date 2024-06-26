@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "practice+everything resources.md",
+                "file": "osint/osint resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "practice+everything resources.md",
+                "file": "osint/osint resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "practice+everything resources.md",
+                "file": "osint/osint resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "practice+everything resources.md"
+                "file": "osint/osint resources.md"
               }
             }
           }
@@ -172,9 +172,9 @@
   },
   "active": "6f6bfd43ee7049b6",
   "lastOpenFiles": [
+    "practice+everything resources.md",
     "README.md",
     "misc.md",
-    "practice+everything resources.md",
     "links to writeups.md",
     "web/web resources.md",
     "rev+pwn/rev+pwn resources.md",
