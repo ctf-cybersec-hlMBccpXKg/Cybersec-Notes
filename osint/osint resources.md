@@ -2,13 +2,15 @@
 - see resources
 
 #### Resources:
-[OSINT Framework](https://osintframework.com/) - more for tools
+[OSINT Framework](https://osintframework.com/) - more for tools; top 6 (username, email, domain, ip, images, social nets) are good
 [start.me](https://start.me/p/DPYPMz/the-ultimate-osint-collection) - has more challenges and news
 
 #### Tools:
 - maps
 	- [google maps](https://www.google.com/maps)
 	- see osint framework -> geolocation tools/maps
+- reverse search
+	- see osint framework->images/videos/docs
 - [wigle](https://wigle.net/)
 	- map of networks
 - [instantusername](https://instantusername.com/)
