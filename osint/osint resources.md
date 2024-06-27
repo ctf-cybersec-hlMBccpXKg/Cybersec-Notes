@@ -9,6 +9,7 @@
 - maps: see osint framework -> geolocation tools/maps
 	- [google maps](https://www.google.com/maps)
 - reverse search: see osint framework->images/videos/docs
+	- also osint framework->search engines
 - usernames: see osint framework->username+email address
 - [wigle](https://wigle.net/)
 	- map of networks
