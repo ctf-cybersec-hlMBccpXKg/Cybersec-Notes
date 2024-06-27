@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "osint/osint resources.md",
+                "file": "web/web resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "osint/osint resources.md",
+                "file": "web/web resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "osint/osint resources.md",
+                "file": "web/web resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "osint/osint resources.md"
+                "file": "web/web resources.md"
               }
             }
           }
@@ -184,16 +184,16 @@
   },
   "active": "29751594586baa40",
   "lastOpenFiles": [
-    "forensics/forensics resources.md",
-    "pentesting/pentesting resources.md",
+    "links to writeups.md",
+    "rev+pwn/rev+pwn resources.md",
     "crypto/crypto resources.md",
+    "forensics/forensics resources.md",
     "osint/osint resources.md",
+    "pentesting/pentesting resources.md",
     "practice+everything resources.md",
     "README.md",
     "misc.md",
-    "links to writeups.md",
     "web/web resources.md",
-    "rev+pwn/rev+pwn resources.md",
     "pentesting",
     "forensics",
     "web",
