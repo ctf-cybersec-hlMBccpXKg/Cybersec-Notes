@@ -8,6 +8,10 @@
 #### Tools:
 - maps: see osint framework -> geolocation tools/maps
 	- [google maps](https://www.google.com/maps)
+- [geospy](https://geospy.ai/)
+	- image locater, not always accurate
+- [google reverse image search](https://images.google.com/)
+	- certified classic
 - reverse search: see osint framework->images/videos/docs
 	- also osint framework->search engines
 - usernames: see osint framework->username+email address
