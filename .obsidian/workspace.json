@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/web resources.md",
+                "file": "rev+pwn/rev+pwn resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web/web resources.md",
+                "file": "rev+pwn/rev+pwn resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web/web resources.md",
+                "file": "rev+pwn/rev+pwn resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/web resources.md"
+                "file": "rev+pwn/rev+pwn resources.md"
               }
             }
           }
@@ -184,8 +184,8 @@
   },
   "active": "29751594586baa40",
   "lastOpenFiles": [
-    "osint/osint resources.md",
     "web/web resources.md",
+    "osint/osint resources.md",
     "links to writeups.md",
     "rev+pwn/rev+pwn resources.md",
     "crypto/crypto resources.md",

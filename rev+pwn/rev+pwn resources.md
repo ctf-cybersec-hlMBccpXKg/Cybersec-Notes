@@ -12,6 +12,8 @@
 	- ASU's platform for pwn challenges
 - [pwn02hero](https://github.com/seal9055/PWN_Zero2Hero)
 	- [seal9055's](https://seal9055.com/) pwn challenges
+- [ropemporium](https://ropemporium.com/)
+	- rop challenges
 
 #### Resources:
 - [Shell-Storm](https://shell-storm.org/index.html)
