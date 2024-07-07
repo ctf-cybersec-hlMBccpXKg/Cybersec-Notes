@@ -12,6 +12,8 @@
 - [hacksplaining](https://www.hacksplaining.com/)
 	- walkthrough of various web exploits
 - [sql_cheatsheet](https://drive.google.com/file/d/1pHedTKwETtRoUA3B3fpWCfLBixU4tTR0/view)
+- [xsleaks](https://xsleaks.dev/)
+	- cross site attacks
 
 #### Tools:
 - [burpsuite](https://portswigger.net/burp/releases/professional-community-2023-10-1-2)
