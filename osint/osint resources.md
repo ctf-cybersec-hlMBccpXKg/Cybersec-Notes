@@ -4,6 +4,7 @@
 #### Resources:
 [OSINT Framework](https://osintframework.com/) - more for tools; top 6 (username, email, domain, ip, images, social nets) are good
 [start.me](https://start.me/p/DPYPMz/the-ultimate-osint-collection) - has more challenges and news
+[https://github.com/cipher387/osint_stuff_tool_collection](https://github.com/cipher387/osint_stuff_tool_collection): a better osint tool collection
 
 #### Tools:
 - maps: see osint framework -> geolocation tools/maps
