@@ -18,8 +18,9 @@
 #### Resources:
 - [Shell-Storm](https://shell-storm.org/index.html)
 	- various optimized shellcodes
-- [Linux System Call Table for x86 64 · Ryan A. Chapman](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
+- https://syscalls.mebeim.net/?table=x86/64/x64/latest
 	- for making your own syscalls
+	- [old resource](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
 - [opensecuritytraining](https://p.ost2.fyi/)
 	- free courses on various pwn/rev concepts
 
