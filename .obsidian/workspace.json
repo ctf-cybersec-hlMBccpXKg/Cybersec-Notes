@@ -182,14 +182,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c505e9d4d88ea44",
+  "active": "29751594586baa40",
   "lastOpenFiles": [
+    "rev+pwn+hardware/rev+pwn+hardware resources.md",
+    "crypto/crypto resources.md",
     "pentesting/pentesting resources.md",
     "practice+everything resources.md",
     "web/web resources.md",
-    "rev+pwn/rev+pwn resources.md",
     "osint/osint resources.md",
-    "crypto/crypto resources.md",
     "links to writeups.md",
     "forensics/forensics resources.md",
     "README.md",
@@ -197,7 +197,7 @@
     "pentesting",
     "forensics",
     "web",
-    "rev+pwn",
+    "rev+pwn+hardware",
     "crypto",
     "osint",
     "ctfs",
