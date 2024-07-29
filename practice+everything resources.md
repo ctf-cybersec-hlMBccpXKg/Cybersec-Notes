@@ -14,3 +14,6 @@ resources:
 	- beginner stuff/overview of exploits for each catagory
 - [kalitools](https://www.kali.org/tools/)
 	- all kali tools, search isn't that good though
+- ctf resources
+	- [devploit ctf resources](https://github.com/devploit/awesome-ctf-resources)
+	- 
