@@ -22,6 +22,7 @@
 	- search for open aws buckets
 - [jwt.io](https://jwt.io/)
 	- json web tokens
+	- [set jwt to none](https://www.gavinjl.me/edit-jwt-online-alg-none/)
 
 #### CLI:
 - `curl`
