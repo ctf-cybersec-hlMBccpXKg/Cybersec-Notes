@@ -17,6 +17,7 @@
 - reverse search: see osint framework->images/videos/docs
 	- also osint framework->search engines
 - usernames: see osint framework->username+email address
+	- [sherlock](https://github.com/sherlock-project/sherlock)
 - [wigle](https://wigle.net/)
 	- map of networks
 - [Aperi'Solve](https://aperisolve.com/)

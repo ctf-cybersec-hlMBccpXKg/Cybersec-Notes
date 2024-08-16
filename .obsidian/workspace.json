@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/web resources.md",
+                "file": "osint/osint resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web/web resources.md",
+                "file": "osint/osint resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web/web resources.md",
+                "file": "osint/osint resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/web resources.md"
+                "file": "osint/osint resources.md"
               }
             }
           }
@@ -182,11 +182,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9c505e9d4d88ea44",
+  "active": "29751594586baa40",
   "lastOpenFiles": [
+    "web/web resources.md",
     "practice+everything resources.md",
     "misc.md",
-    "web/web resources.md",
     "osint/osint resources.md",
     "crypto/crypto resources.md",
     "rev+pwn+hardware/rev+pwn+hardware resources.md",
