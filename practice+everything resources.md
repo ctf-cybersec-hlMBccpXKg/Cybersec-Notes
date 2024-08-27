@@ -16,4 +16,4 @@ resources:
 	- all kali tools, search isn't that good though
 - ctf resources
 	- [devploit ctf resources](https://github.com/devploit/awesome-ctf-resources)
-	- 
+- [blueteamnotes](https://github.com/Purp1eW0lf/Blue-Team-Notes)
