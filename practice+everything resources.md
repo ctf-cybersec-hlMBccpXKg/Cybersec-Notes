@@ -6,6 +6,7 @@ practice:
 - [umasscybersec training platform](https://training.umasscybersec.org/challenges)
 - [tryhackme](https://tryhackme.com/)
 - [hackthissite](https://www.hackthissite.org/)
+- [hackinghub](https://app.hackinghub.io/hubs)
 
 resources:
 - [HackTricks](https://book.hacktricks.xyz/welcome/readme)
