@@ -23,6 +23,7 @@
 - [jwt.io](https://jwt.io/)
 	- json web tokens
 	- [set jwt to none](https://www.gavinjl.me/edit-jwt-online-alg-none/)
+	- [better jwt tool](https://10015.io/tools/jwt-encoder-decoder)
 
 #### CLI:
 - `curl`
