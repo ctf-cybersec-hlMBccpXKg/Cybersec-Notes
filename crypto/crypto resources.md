@@ -1,5 +1,6 @@
 #### Practice:
 - [cryptopals crypto challenges][https://cryptopals.com/]
+- https://cryptohack.org/
 
 #### Resources:
 - [reverse mod abc](https://stackoverflow.com/questions/49818392/how-to-find-reverse-of-powa-b-c-in-python)
