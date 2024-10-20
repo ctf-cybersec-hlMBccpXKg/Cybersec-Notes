@@ -18,6 +18,13 @@
 	- also osint framework->search engines
 - usernames: see osint framework->username+email address
 	- [sherlock](https://github.com/sherlock-project/sherlock)
+- email/phone/username things
+	- [castrick](https://castrickclues.com/)
+	- [epieos](https://epieos.com/)
+- [kasm workspaces](https://kasmweb.com/)
+	- desktop streaming product for browser isolation/configuration?
+- [maltego](https://www.maltego.com/downloads/)
+	- industry used osint tool/mapper/etc
 - [wigle](https://wigle.net/)
 	- map of networks
 - [Aperi'Solve](https://aperisolve.com/)
@@ -29,5 +36,4 @@
 	- search engine for github repos
 - [Grayhatwarfare](https://grayhatwarfare.com/) 
 	- search for open aws buckets
-- 
 
