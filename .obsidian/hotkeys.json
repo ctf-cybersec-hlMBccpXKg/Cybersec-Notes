@@ -71,21 +71,21 @@
       "key": "Z"
     }
   ],
-  "highlightr-plugin:unhighlight": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "Q"
-    }
-  ],
   "editor:toggle-highlight": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "J"
+    }
+  ],
+  "obsidian-git:backup-and-close": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Q"
     }
   ]
 }

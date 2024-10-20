@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "crypto/crypto resources.md",
+                "file": "osint/osint resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "crypto/crypto resources.md",
+                "file": "osint/osint resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "crypto/crypto resources.md",
+                "file": "osint/osint resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "crypto/crypto resources.md"
+                "file": "osint/osint resources.md"
               }
             }
           }
@@ -184,9 +184,9 @@
   "active": "2c719abafb7d67e6",
   "lastOpenFiles": [
     "rev+pwn+hardware/rev+pwn+hardware resources.md",
+    "crypto/crypto resources.md",
     "web/web resources.md",
     "forensics/forensics resources.md",
-    "crypto/crypto resources.md",
     "practice+everything resources.md",
     "misc.md",
     "links to writeups.md",
