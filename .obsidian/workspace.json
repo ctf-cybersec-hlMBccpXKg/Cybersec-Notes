@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hacktricks",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,7 +203,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2c719abafb7d67e6",
+  "active": "9c505e9d4d88ea44",
   "lastOpenFiles": [
     "rev+pwn+hardware/rev+pwn+hardware resources.md",
     "crypto/crypto resources.md",
