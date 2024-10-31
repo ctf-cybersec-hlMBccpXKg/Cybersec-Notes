@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pentesting/pentesting resources.md",
+                "file": "pentesting/web bootcamp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "pentesting resources"
+              "title": "web bootcamp"
             }
           },
           {
@@ -205,6 +205,8 @@
   },
   "active": "2c719abafb7d67e6",
   "lastOpenFiles": [
+    "pentesting/pentesting resources.md",
+    "pentesting/web bootcamp.md",
     "osint/osint resources.md",
     "rev+pwn+hardware/rev+pwn+hardware resources.md",
     "crypto/crypto resources.md",
@@ -213,7 +215,6 @@
     "practice+everything resources.md",
     "misc.md",
     "links to writeups.md",
-    "pentesting/pentesting resources.md",
     "README.md",
     "pentesting",
     "forensics",
@@ -249,7 +250,6 @@
     "Excalidraw/Drawing 2024-06-20 17.01.48.excalidraw.md",
     "Excalidraw/Drawing 2024-06-20 17.00.48.excalidraw.md",
     "2. Propositional logic.md",
-    "hw/Homework 3.md",
-    "discussion/Discussion 3 responses.md"
+    "hw/Homework 3.md"
   ]
 }
