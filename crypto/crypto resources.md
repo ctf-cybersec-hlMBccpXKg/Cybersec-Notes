@@ -1,5 +1,5 @@
 #### Practice:
-- [cryptopals crypto challenges][https://cryptopals.com/]
+- [cryptopals crypto challenges](https://cryptopals.com/)
 - https://cryptohack.org/
 
 #### Resources:

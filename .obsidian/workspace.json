@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rev+pwn+hardware/rev+pwn+hardware resources.md",
+                "file": "crypto/crypto resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rev+pwn+hardware resources"
+              "title": "crypto resources"
             }
           },
           {
@@ -205,13 +205,14 @@
   },
   "active": "2c719abafb7d67e6",
   "lastOpenFiles": [
+    "crypto/[.md",
+    "crypto/crypto resources.md",
     "practice+everything resources.md",
-    "web/web resources.md",
     "rev+pwn+hardware/rev+pwn+hardware resources.md",
+    "web/web resources.md",
     "pentesting/web bootcamp.md",
     "pentesting/pentesting resources.md",
     "osint/osint resources.md",
-    "crypto/crypto resources.md",
     "forensics/forensics resources.md",
     "misc.md",
     "links to writeups.md",
@@ -249,7 +250,6 @@
     "Excalidraw/Drawing 2024-06-20 16.56.51.excalidraw.md",
     "Excalidraw/Drawing 2024-06-20 17.01.48.excalidraw.md",
     "Excalidraw/Drawing 2024-06-20 17.00.48.excalidraw.md",
-    "2. Propositional logic.md",
-    "hw/Homework 3.md"
+    "2. Propositional logic.md"
   ]
 }
