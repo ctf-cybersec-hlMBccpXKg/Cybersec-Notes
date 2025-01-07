@@ -5,6 +5,12 @@
 	- web challenges + courses/videos
 - [flAWS](http://flaws.cloud/)
 	- aws bucket misconfigs
+- [prompt.ml](https://prompt.ml/0)
+	- xss injection practice
+- [xss quiz](https://xss-quiz.int21h.jp/)
+	- blind xss practice
+- [xssy](https://xssy.uk/)
+	- xss labs
 
 #### Resources:
 - [portswigger](https://portswigger.net/web-security/all-topics)
