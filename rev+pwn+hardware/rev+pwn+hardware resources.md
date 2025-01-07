@@ -26,6 +26,7 @@
 	- [old resource](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
 - [opensecuritytraining](https://p.ost2.fyi/)
 	- free courses on various pwn/rev concepts
+- [liveoverflow binex](https://www.youtube.com/watch?v=iyAyN3GFM7A&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 
 #### Tools:
 - [ghidra](https://ghidra-sre.org/)
