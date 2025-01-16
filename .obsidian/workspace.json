@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/web resources.md",
+                "file": "pentesting/checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "web resources"
+              "title": "checklist"
             }
           },
           {
@@ -205,12 +205,13 @@
   },
   "active": "2c719abafb7d67e6",
   "lastOpenFiles": [
+    "web/web resources.md",
+    "pentesting/checklist.md",
     "misc.md",
     "rev+pwn+hardware/rev+pwn+hardware resources.md",
     "crypto/crypto resources.md",
     "crypto/[.md",
     "practice+everything resources.md",
-    "web/web resources.md",
     "pentesting/web bootcamp.md",
     "pentesting/pentesting resources.md",
     "osint/osint resources.md",
@@ -249,7 +250,6 @@
     "Excalidraw/Drawing 2024-06-20 17.02.48.excalidraw.md",
     "Excalidraw/Drawing 2024-06-20 16.56.51.excalidraw.md",
     "Excalidraw/Drawing 2024-06-20 17.01.48.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-20 17.00.48.excalidraw.md",
-    "2. Propositional logic.md"
+    "Excalidraw/Drawing 2024-06-20 17.00.48.excalidraw.md"
   ]
 }
