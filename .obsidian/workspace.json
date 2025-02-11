@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pentesting/checklist.md",
+                "file": "web/xss.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "checklist"
+              "title": "xss"
             }
           },
           {
@@ -68,7 +68,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -121,8 +122,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -206,6 +207,7 @@
   "active": "2c719abafb7d67e6",
   "lastOpenFiles": [
     "web/web resources.md",
+    "web/xss.md",
     "pentesting/checklist.md",
     "misc.md",
     "rev+pwn+hardware/rev+pwn+hardware resources.md",
@@ -249,7 +251,6 @@
     "hw/HW3.pdf",
     "Excalidraw/Drawing 2024-06-20 17.02.48.excalidraw.md",
     "Excalidraw/Drawing 2024-06-20 16.56.51.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-20 17.01.48.excalidraw.md",
-    "Excalidraw/Drawing 2024-06-20 17.00.48.excalidraw.md"
+    "Excalidraw/Drawing 2024-06-20 17.01.48.excalidraw.md"
   ]
 }
