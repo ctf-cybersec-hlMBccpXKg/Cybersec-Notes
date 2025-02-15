@@ -27,6 +27,7 @@
 - [opensecuritytraining](https://p.ost2.fyi/)
 	- free courses on various pwn/rev concepts
 - [liveoverflow binex](https://www.youtube.com/watch?v=iyAyN3GFM7A&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
+- [hacktricks web](https://book.hacktricks.wiki/en/pentesting-web/web-vulnerabilities-methodology.html)
 
 #### Tools:
 - [ghidra](https://ghidra-sre.org/)
