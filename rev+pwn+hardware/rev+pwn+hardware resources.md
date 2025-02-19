@@ -28,6 +28,7 @@
 	- free courses on various pwn/rev concepts
 - [liveoverflow binex](https://www.youtube.com/watch?v=iyAyN3GFM7A&list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN)
 - [ironstone](https://ir0nstone.gitbook.io/notes)
+- [format string](https://corgi.rip/blog/format-string-exploitation/)
 
 #### Tools:
 - [ghidra](https://ghidra-sre.org/)
