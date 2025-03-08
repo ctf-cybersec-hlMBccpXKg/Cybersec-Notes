@@ -39,5 +39,5 @@
 - [censys search](https://search.censys.io/)
 - https://x.keysco.re/
 	- database breach searcher
-- 
+- https://www.shodan.io/
 
