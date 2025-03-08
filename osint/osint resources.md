@@ -37,4 +37,7 @@
 - [Grayhatwarfare](https://grayhatwarfare.com/) 
 	- search for open aws buckets
 - [censys search](https://search.censys.io/)
+- https://x.keysco.re/
+	- database breach searcher
+- 
 
