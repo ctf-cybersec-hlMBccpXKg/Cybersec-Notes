@@ -11,6 +11,7 @@
 	- blind xss practice
 - [xssy](https://xssy.uk/)
 	- xss labs
+- [pwnfunction](https://xss.pwnfunction.com)
 
 #### Resources:
 - [portswigger](https://portswigger.net/web-security/all-topics)
